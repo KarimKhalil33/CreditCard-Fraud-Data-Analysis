@@ -1,7 +1,5 @@
 # Group56 - Credit Card Fradulent Transactions
 
-- Your title can change over time.
-
 ## Milestones
 
 Details for Milestone are available on Canvas (left sidebar, Course Project).
