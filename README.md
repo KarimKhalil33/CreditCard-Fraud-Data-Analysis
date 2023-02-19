@@ -24,7 +24,7 @@ These variables have been chosen based on unconventional aspects of a credit car
 {You should use this area to add a screenshot of an interesting plot, or of your dashboard}
 
 <img src ="images/test.png" width="100px">
-<img src ="images/image.png" width="100px">
+
 ## References
 
 {Add your stuff here}
