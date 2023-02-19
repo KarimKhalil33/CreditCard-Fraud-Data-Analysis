@@ -1,5 +1,5 @@
 # Project Vision
-To be able to establish an educated correlation between the most probable factor associated with credit card transactions to its fraudulent nature. 
+To be able to establish an educated correlation between the most probable factors associated with credit card transactions to its fraudulent nature. 
 
 
 
